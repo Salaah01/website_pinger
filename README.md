@@ -1,5 +1,7 @@
 # Website Pinger
 
+[![GitHub issues](https://img.shields.io/github/issues/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/issues) [![GitHub forks](https://img.shields.io/github/forks/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/network) [![GitHub stars](https://img.shields.io/github/stars/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/stargazers)
+
 Ping a server checking that it is alive. If it is not, then sends am email notifying the server is down.
 
 Would recommend using this along with a cron job which would periodically run the script.
@@ -40,6 +42,3 @@ The config file should be a JSON file. Example is below. Do note, that not all k
 ```
 
 Not all keys need to exist in the the config, those which are not in the config must be at least provided as arguments when calling the script.
-
-
-
