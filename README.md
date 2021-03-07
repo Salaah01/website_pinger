@@ -1,6 +1,6 @@
 # Website Pinger
 
-[![GitHub issues](https://img.shields.io/github/issues/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/issues) [![GitHub forks](https://img.shields.io/github/forks/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/network) [![GitHub stars](https://img.shields.io/github/stars/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/issues) [![GitHub forks](https://img.shields.io/github/forks/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/network) [![GitHub stars](https://img.shields.io/github/stars/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/stargazers) [![GitHub license](https://img.shields.io/github/license/Salaah01/website_pinger)](https://github.com/Salaah01/website_pinger/blob/master/LICENSE)
 
 Ping a server checking that it is alive. If it is not, then sends an email notifying the server is down.
 
